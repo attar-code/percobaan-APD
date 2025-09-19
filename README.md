@@ -1,2 +1,2 @@
 # percobaan-APD
-mau coba coba
+Praktikum APD mengenai git dan github
